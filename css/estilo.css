@@ -1,0 +1,218 @@
+*{margin: 0px;}
+.sombrero
+{
+    background-color:black;
+    width: 110px; height: 80px;
+    position: relative;
+    left: 530px;
+    top: 50px;
+    border-style: solid;
+    border-radius: 8PX;
+}
+.sombrero1
+{
+    background-color:red;
+    width: 110px; height: 20px;
+    position: relative;
+    left: -3px;
+    top: 30px;
+    border-style: solid;
+    border-radius: 8PX;
+}
+.medio
+{
+    background-color:black;
+    width: 150px; height: 35px;
+    position: absolute;
+    left: 510px;
+    top: 100px;
+    border-style: solid;
+    border-radius: 50%;
+}
+.cara
+{
+    background-color: white;
+    border-style: solid;
+    border-radius: 70%;
+    margin: 5px;
+    position: relative;
+    left: 510px;
+    top: 20px;
+    width: 145px; height: 145px;
+}
+.ojos1
+{
+    background-color: white;
+    border-style: solid;
+    border-radius: 70%;
+    margin: 5px;
+    position: absolute;
+    left: 30px;
+    top: 40px;
+    width: 30px; height: 35px;
+}
+.ojos2
+{
+    background-color: white;
+    border-style: solid;
+    border-radius: 70%;
+    margin: 5px;
+    position: absolute;
+    left: 80px;
+    top: 40px;
+    width: 30px; height: 35px;
+}
+.iris1
+{
+    background-color:black;
+    border-style: solid;
+    border-radius: 70%;
+    margin: 5px;
+    position: absolute;
+    left: 40px;
+    top: 47px;
+    width: 20px; height: 25px;
+}
+.iris2
+{
+    background-color:black;
+    border-style: solid;
+    border-radius: 70%;
+    margin: 5px;
+    position: absolute;
+    left: 90px;
+    top: 47px;
+    width: 20px; height: 25px;
+}
+.blanco1
+{
+    background-color:white;
+    border-radius: 70%;
+    margin: 5px;
+    position: relative;
+    left: -5px;
+    top: -4px;
+    width: 10px; height: 15px;
+}
+.blanco2
+{
+    background-color:white;
+    border-radius: 70%;
+    margin: 5px;
+    position: relative;
+    left: -5px;
+    top: -4px;
+    width: 10px; height: 15px;
+}
+.nariz
+{
+    background-color: rgb(234, 51, 0);
+    border-style: solid;
+    border-radius: 5PX;
+    margin: 5px;
+    position: absolute;
+    left: 75px;
+    top: 85px;
+    width: 40px; height: 10px;
+}
+.boca
+{
+    background-color:brown;
+    margin: 5px;
+    position: relative;
+    left: 70px;
+    top: 105px;
+    width: 30px; height: 8px;
+    transform: rotate(-10deg);
+}
+.boca1
+{
+    background-color:brown;
+    margin: 5px;
+    position: absolute;
+    left: 43px;
+    top: 105px;
+    width: 30px; height: 8px;
+    transform: rotate(10deg);
+}
+.brazo1
+{
+    background-color:chocolate;
+    border-style: solid;
+    margin: 5px;
+    position: absolute;
+    left: 400px;
+    top: 250px;
+    width: 140px; height: 15px;
+    transform: rotate(50deg);
+}
+.brazo2
+{
+    background-color:chocolate;
+    border-style: solid;
+    margin: 5px;
+    position: absolute;
+    left: 680px;
+    top: 310px;
+    width: 15px; height: 150px;
+    transform: rotate(-5deg);
+}
+.pecho
+{
+    background-color: white;
+    border-style: solid;
+    border-radius: 70%;
+    margin: 5px;
+    position: relative;
+    left: 500px;
+    top: 10px;
+    width: 180px; height: 190px;
+}
+.boton1
+{
+    background-color: rgb(10, 244, 38);
+    border-style: solid;
+    border-radius: 70%;
+    margin: 5px;
+    position: relative;
+    left: 75px;
+    top: 20px;
+    width: 20px; height: 20px;
+}
+.boton2
+{
+    background-color: rgb(245, 13, 13);
+    border-style: solid;
+    border-radius: 70%;
+    margin: 5px;
+    position: relative;
+    left: 75px;
+    top: 25px;
+    width: 20px; height: 20px;
+}
+.boton3
+{
+    background-color: rgb(251, 141, 7);
+    border-style: solid;
+    border-radius: 70%;
+    margin: 5px;
+    position: relative;
+    left: 75px;
+    top: 30px;
+    width: 20px; height: 20px;
+}
+.abajo
+{
+    background-color: white;
+    border-style: solid;
+    border-radius: 50%;
+    margin: 5px;
+    position: relative;
+    left: 480px;
+    top: 3px;
+    width: 220px; height: 200px;
+    text-align: center;
+    text-decoration: double;
+    font-style: italic;
+    
+}
